@@ -1,0 +1,31 @@
+.content{
+  width:65%;
+  float:left;
+  padding:10px 0px 0px 30px;
+  border:solid red;
+}
+
+
+.sidebar{
+  width:31%;
+  float:right;
+  padding:10px ;
+  border:solid black;
+}
+h1{
+  border-bottom:1px solid #bbb;
+  padding-bottom:10px;
+}
+body{
+  background:grey;
+  color:white;
+}
+#detail{
+
+  color:yellow;
+  font-family:arial;
+}
+.blogbody{
+  background: white;
+  color:black;
+}
